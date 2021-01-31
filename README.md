@@ -1,4 +1,7 @@
-# hello-world
-My first github repository
+# Introduction
+Welcome to my GitHub! 
 
-Ohimai here. Python, SQL and R any day. Ready to go all the way!
+Tools Used: Python, SQL, Jupyter Notebooks
+Subjects covered: Data Analysis and Machine Learning
+
+Hope you enjoy exploring it as much as I enjoy creating!
